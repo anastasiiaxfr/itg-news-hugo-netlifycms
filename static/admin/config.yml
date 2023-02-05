@@ -61,7 +61,7 @@ collections:
     identifier_field: 'category'
     editor:
       preview: false
-    sortable_fields: ['']
+    sortable_fields: ['date', 'title']
     view_groups:
       - label: Year
         field: date
@@ -92,7 +92,7 @@ collections:
     identifier_field: 'category'
     editor:
       preview: false
-    sortable_fields: ['']
+    sortable_fields: ['date', 'title']
     view_groups:
       - label: Year
         field: date
@@ -122,7 +122,7 @@ collections:
     i18n: true
     editor:
       preview: false
-    sortable_fields: ['']
+    sortable_fields: ['date', 'title']
     view_groups:
       - label: Year
         field: date
@@ -151,7 +151,7 @@ collections:
     i18n: true
     editor:
       preview: false
-    sortable_fields: ['']
+    sortable_fields: ['date', 'title']
     view_groups:
       - label: Year
         field: date
@@ -181,7 +181,7 @@ collections:
     i18n: true
     editor:
       preview: false
-    sortable_fields: ['']
+    sortable_fields: ['date', 'title']
     view_groups:
       - label: Year
         field: date
